@@ -1,3 +1,3 @@
-# elixir-workspace
+# scripts
 
-Script to install Elixir environment on Debian based operational systems.
+A compiled of script to save your time.
