@@ -4,12 +4,12 @@ Script to make your day more productive
 
 ## Available
 
-- <a href="">Asdf</a>
-- <a href="">Docker</a>
-- <a href="">Oh My Zsh</a>
+- <a href="https://github.com/joaopealves/scripts/tree/main/asdf">Asdf</a>
+- <a href="https://github.com/joaopealves/scripts/tree/main/docker">Docker</a>
+- <a href="https://github.com/joaopealves/scripts/tree/main/oh_my_zsh">Oh My Zsh</a>
 - Techs
-  - <a href="">Elixir/Erlang</a>
-  - <a href="">Nodejs</a>
+  - <a href="https://github.com/joaopealves/scripts/tree/main/techs/elixir">Elixir</a>
+  - <a href="https://github.com/joaopealves/scripts/tree/main/techs/nodejs">Nodejs</a>
 
 ## to do
 
