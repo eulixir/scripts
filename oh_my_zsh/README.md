@@ -1,4 +1,8 @@
 ```bash
+ZSH_THEME="spaceship"
+```
+
+```bash
 SPACESHIP_PROMPT_ORDER=(
   user          # Username section
   dir           # Current directory section

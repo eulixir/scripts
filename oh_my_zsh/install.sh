@@ -1,12 +1,24 @@
-sudo apt install curl
+sudo apt autoremove --purge zsh -y
 
-sudo apt install zsh
+rm -rf .zshrc 
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" -y
+rm -rf .oh-my-zsh
+
+sudo apt install curl zsh -y
+
+
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" -y
 
 git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"
 
-ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+sudo ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+
+git clone https://github.com/zdharma-continuum/fast-syntax-highlighting ~/path/to/fsh
+
+source ~/path/to/fsh/fast-syntax-highlighting.plugin.zsh
+
+
+
 
