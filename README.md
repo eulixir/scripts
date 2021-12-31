@@ -10,7 +10,7 @@ Script to make your day more productive
 - Techs
   - <a href="https://github.com/joaopealves/scripts/tree/main/techs/elixir">Elixir</a>
   - <a href="https://github.com/joaopealves/scripts/tree/main/techs/nodejs">Nodejs</a>
-  - <a href="">Erlang</a>
+  - <a href="https://github.com/joaopealves/scripts/tree/main/techs/erlang">Erlang</a>
 
 ## to do
 
