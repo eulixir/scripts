@@ -1,5 +1,3 @@
-Elixir workspace install
+# Elixir
 
-# Requirements
-
-    Asdf installed
+Installing elixir 1.13.1
