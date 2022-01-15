@@ -12,6 +12,8 @@ Script to make your day more productive
   - <a href="https://github.com/joaopealves/scripts/tree/main/techs/nodejs">Nodejs</a>
   - <a href="https://github.com/joaopealves/scripts/tree/main/techs/erlang">Erlang</a>
   - <a href="https://github.com/joaopealves/scripts/tree/main/techs/ruby">Ruby</a>
+  - <a href="https://github.com/joaopealves/scripts/tree/main/techs/python">Python</a>
+
 
 ## to do
 
